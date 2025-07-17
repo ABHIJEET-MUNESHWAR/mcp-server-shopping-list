@@ -1,10 +1,10 @@
-package com.mcp.mcp_shopping_list;
+package com.mcp.mcpservershoppinglist;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class McpShoppingListApplicationTests {
+class McpServerShoppingListApplicationTests {
 
 	@Test
 	void contextLoads() {

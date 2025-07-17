@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mcp</groupId>
-	<artifactId>mcp_shopping_list</artifactId>
+	<artifactId>mcp-server-shopping-list</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>mcp_shopping_list</name>
-	<description>Demo project for MCP Servers</description>
+	<name>mcp-server-shopping-list</name>
+	<description>mcp-server-shopping-list</description>
 	<url/>
 	<licenses>
 		<license/>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>21</java.version>
 		<spring-ai.version>1.0.0</spring-ai.version>
 	</properties>
 	<dependencies>
